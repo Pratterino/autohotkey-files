@@ -1,0 +1,1 @@
+find . -name "*.ahk" -exec echo {} \; -exec grep "C:\Program Files\AutoHotkey\AutoHotkey.exe" {} \;
